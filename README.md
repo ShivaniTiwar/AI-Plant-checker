@@ -2,8 +2,6 @@
 
 ## PLANT-AI [Recognition of Plant Diseases by Leaf Image Classification]
 
-### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
-
 ## <img src="./Assets/web.gif" alt="demo"/>
 
  </div>
@@ -55,9 +53,6 @@ This process for building a model which can detect the disease assocaited with t
 
   <img src="./Assets/models.png" alt="models" />
 
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
-<br/>
-
 ## Details about the model
 
 ### The model will be able to detect `38` types of `diseases` of `14 Unique plants`
@@ -70,25 +65,3 @@ All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyaji
 - Building Recommender system for recommendation of proper presticides and control method for the disease.
 - Implementing the appropriate management strategies like fungicide applications and pesticide applications could lead to early
   information on crop health and disease detection.This could facilitate the control of diseases and improve productivity.
-
-## Usage:
-
-- `Flask` : Code for Flask Server and deployment
-- `TestImages` : Sample image for model testing
-- `Src` : All The source code for building models
-- `Models` : All the Pretrained Models of Pytorch
-
-## License
-
-This project is Licensed under `MIT`
-
-## Explanation
-
-`To understand the code :` You can find the complete explanation to the code in [Article](https://medium.com/@soumyajit4419/plant-ai-c8fc95ed90e6?source=friends_link&sk=4707825cbaefa2dcaaa92d0e3ed5de01)
-
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
